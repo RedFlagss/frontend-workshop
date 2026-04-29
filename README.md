@@ -11,7 +11,7 @@ RedFlags — это SaaS-платформа для централизованн�
   доступа сотрудникам, переключения фича-флагов (расположена в этом репозитории)
 - SDK для клиентских приложений (хранится по [ссылке](https://github.com/RedFlagss/feature_flag_client))
 
-Frontend хранится по [ссылке](https://github.com/RedFlagss/frontend-workshop)
+- Frontend хранится по [ссылке](https://github.com/RedFlagss/frontend-workshop)
 
 # Стек технологий
 
@@ -20,10 +20,10 @@ Frontend хранится по [ссылке](https://github.com/RedFlagss/front
 - Сервис авторизации: Java 21, Micronaut, PostgreSQL, Redis, Kafka
 - Основной сервис: Java 21, Micronaut, Kafka, PostgreSQL
 
-Для микросервисов админ панели настроено хранение логов и сбор метрик: Grafana Alloy, Loki, Prometheus, Grafana
+- Для микросервисов админ панели настроено хранение логов и сбор метрик: Grafana Alloy, Loki, Prometheus, Grafana
 
-SDK для клиентских приложений: Java 17, Kafka
-Frontend: TS, React, next.js, scss, casl, antd
+- SDK для клиентских приложений: Java 17, Kafka
+- Frontend: TS, React, next.js, scss, casl, antd
 
 # Документация
 
