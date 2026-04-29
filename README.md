@@ -1,4 +1,4 @@
-(За основу взят readme написанный Ириной Хрусталевой [ссылка на readme](https://github.com/RedFlagss/feature_flag_main))
+(Это форк основго приложения и за основу взят readme написанный Ириной Хрусталевой [ссылка на readme](https://github.com/RedFlagss/feature_flag_main))
 
 # RED FLAGS
 
